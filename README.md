@@ -11,3 +11,13 @@ Getting started with the challenge:
 3. Register to classiq at [platform.classiq.io](platform.classiq.io) (if you haven't done already)
 4. Win the challenge :)
 
+
+# Team Accounts
+1- [Zuhair Khan](https://github.com/HoceiniRihab)
+2- [Niki Cambareri](https://github.com/Niko-mc)
+3- [Emanuele Serrati](https://github.com/Emuserrati)
+4- [Rihab Hoceini](https://github.com/HoceiniRihab)
+5-[Hyunkyung Choo](https://github.com/choonot2)
+
+
+

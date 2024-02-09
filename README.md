@@ -13,8 +13,8 @@ Getting started with the challenge:
 
 
 # Team Accounts
-- [Zuhair Khan](https://github.com/HoceiniRihab)
-- [Niki Cambareri](https://github.com/Niko-mc)
+- [Zuhair Khan](https://github.com/MZuhairKhan)
+- [Niko Cambareri](https://github.com/Niko-mc)
 - [Emanuele Serrati](https://github.com/Emuserrati)
 - [Rihab Hoceini](https://github.com/HoceiniRihab)
 - [Hyunkyung Choo](https://github.com/choonot2)

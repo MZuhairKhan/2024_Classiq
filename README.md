@@ -17,7 +17,7 @@ Getting started with the challenge:
 - [Niki Cambareri](https://github.com/Niko-mc)
 - [Emanuele Serrati](https://github.com/Emuserrati)
 - [Rihab Hoceini](https://github.com/HoceiniRihab)
--[Hyunkyung Choo](https://github.com/choonot2)
+- [Hyunkyung Choo](https://github.com/choonot2)
 
 
 
